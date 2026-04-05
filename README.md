@@ -26,7 +26,8 @@
 
 [![GitHub TMerlini](https://img.shields.io/github/followers/TMerlini?label=Follow&style=social)](https://github.com/TMerlini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomerlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomerlini)
-[![Linktree](https://img.shields.io/badge/links-linktr.ee%2Ftmerlini-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/tmerlini)
+[![Linktree](https://img.shields.io/badge/Linktree-linktr.ee%2Ftmerlini-39E09B?style=flat)](https://linktr.ee/tmerlini)
+[![X](https://img.shields.io/badge/X-%40MerloOfficial-000000?style=flat&logo=x&logoColor=white)](https://x.com/MerloOfficial)
 [![Email](https://img.shields.io/badge/email-merloproductions%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:merloproductions@gmail.com)
 
 </div>
@@ -57,9 +58,13 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### Tech I use
 
+<!-- Use &amp; in query strings so GitHub's HTML parser does not truncate img URLs -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,android,nodejs,angular,vue,react,reactnative,graphql,mongodb,docker,kubernetes&perline=8" alt="Languages, frameworks & infra (GitRoll profile)" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,android,nodejs,angular&amp;perline=8" alt="Languages and runtimes (GitRoll profile)" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,reactnative,graphql,mongodb,docker,kubernetes&amp;perline=8" alt="Frameworks and infra (GitRoll profile)" />
   </a>
 </p>
 
@@ -69,8 +74,8 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 <!-- Official github-readme-stats.vercel.app is often paused (503). Mirror: readme-stats-fast.vercel.app -->
 <p align="left">
-  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=TMerlini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" alt="GitHub stats" />
-  <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top languages" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=TMerlini&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;cache_seconds=7200" alt="GitHub stats" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=7200" alt="Top languages" />
 </p>
 
 <div align="center">
