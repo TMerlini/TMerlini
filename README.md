@@ -1,4 +1,4 @@
-<!-- Radar PNG must live in TMerlini/TMerlini (same repo as this README). Push gitroll-radar.png to the default branch (main) or the image URL below will 404. -->
+<!-- Profile images (gitroll-radar.png, project screenshots) must be committed to TMerlini/TMerlini on branch main or raw.githubusercontent.com links will 404. -->
 
 <div align="center">
 
@@ -47,12 +47,38 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### Selected projects
 
-| | |
-|:---|:---|
-| **[Scaffold Push Service](https://github.com/TMerlini/Scaffold-Push-Service)** | Open-source web push (VAPID, REST API) · Node.js |
-| **[GobSwap](https://gobswap.com)** | Multi-chain DEX aggregator (14+ chains) |
-| **[Gen-Plasma](https://gen-plasma.com)** | No-code generative art & NFT deployment |
-| **[Clock-in.pt](https://clock-in.pt)** | SaaS time tracking & Portuguese labour compliance · React, Firebase, PWA |
+<p align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+  <a href="https://github.com/TMerlini/Scaffold-Push-Service"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/PWA.png" alt="Scaffold Push Service" width="280" /></a>
+  <br/><br/>
+  <strong><a href="https://github.com/TMerlini/Scaffold-Push-Service">Scaffold Push Service</a></strong>
+  <br/><sub>Open-source web push (VAPID, REST API) · Node.js</sub>
+</td>
+<td align="center" valign="top" width="50%">
+  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap" width="280" /></a>
+  <br/><br/>
+  <strong><a href="https://gobswap.com">GobSwap</a></strong>
+  <br/><sub>Multi-chain DEX aggregator (14+ chains)</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+  <a href="https://gen-plasma.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/genplasma.png" alt="Gen-Plasma" width="280" /></a>
+  <br/><br/>
+  <strong><a href="https://gen-plasma.com">Gen-Plasma</a></strong>
+  <br/><sub>No-code generative art &amp; NFT deployment</sub>
+</td>
+<td align="center" valign="top" width="50%">
+  <a href="https://clock-in.pt"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/clockin.png" alt="Clock-in.pt" width="280" /></a>
+  <br/><br/>
+  <strong><a href="https://clock-in.pt">Clock-in.pt</a></strong>
+  <br/><sub>SaaS time tracking &amp; Portuguese labour compliance · React, Firebase, PWA</sub>
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
