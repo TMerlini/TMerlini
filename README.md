@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Olá, I'm Tiago Merlini
+### Hi, I'm Tiago Merlini 👋
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
@@ -25,10 +25,10 @@
 <br/>
 
 [![GitHub TMerlini](https://img.shields.io/github/followers/TMerlini?label=Follow&style=social)](https://github.com/TMerlini)
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-Merlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.dev.to/merlini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomerlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomerlini)
 [![Linktree](https://img.shields.io/badge/Linktree-linktr.ee%2Ftmerlini-39E09B?style=flat)](https://linktr.ee/tmerlini)
 [![X](https://img.shields.io/badge/X-%40MerloOfficial-000000?style=flat&logo=x&logoColor=white)](https://x.com/MerloOfficial)
-[![Email](https://img.shields.io/badge/email-tiago%40merliniferrao.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tiago@merliniferrao.com)
+[![Email](https://img.shields.io/badge/email-merloproductions%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:merloproductions@gmail.com)
 
 </div>
 
@@ -41,6 +41,7 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 - 🔭 **Now:** Full-time on my own tech projects · open to **freelance audio** and **audio × AI** collaborations
 - 🛠️ **Stack:** JS/TS, Python, PHP, C/C++ · React, Vue, Angular, React Native, Android · Node.js, GraphQL, MongoDB · Docker & Kubernetes — plus **Firebase** in shipping apps and **Claude** / **Whisper** / Chatterbox for AI & audio pipelines
 - 💬 **Ask me about:** broadcast & live audio, mastering, Web3 frontends, push infra, labour-law SaaS in Portugal (`clock-in.pt`)
+- 🎧 **Also:** Co-founded **Techsoul** (electronic label, 2010–2014) · alias **GobRoss**
 
 ---
 
@@ -56,9 +57,9 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <br/><sub>Open-source web push (VAPID, REST API) · Node.js</sub>
 </td>
 <td align="center" valign="top" width="50%">
-  <a href="https://vortex.gobswap.com/"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/vortex.png" alt="VORTEX by GobSwap — cross-chain swaps" width="140" /></a>
+  <a href="https://vortex.gobswap.com/"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/vortex.png" alt="VORTEX by GobSwap — cross-chain swaps" width="280" /></a>
   <br/><br/>
-  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap DEX aggregator" width="140" /></a>
+  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap DEX aggregator" width="280" /></a>
   <br/><br/>
   <strong><a href="https://gobswap.com">GobSwap</a></strong> · <strong><a href="https://vortex.gobswap.com/">VORTEX</a></strong>
   <br/><sub>Same product family: multi-chain DEX aggregator + <strong>VORTEX</strong> cross-chain swaps (<a href="https://vortex.gobswap.com/">vortex.gobswap.com</a>) across <strong>17+</strong> chains, including <strong>Bitcoin Native SegWit</strong> cross-chain transfers.</sub>
@@ -69,7 +70,6 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <a href="https://gen-plasma.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/genplasma.png" alt="Gen-Plasma" width="280" /></a>
   <br/><br/>
   <strong><a href="https://gen-plasma.com">Gen-Plasma</a></strong>
-  <br/><sub>Unique digital manifestation of plasma physics, generated through advanced mathematical algorithms</sub>
   <br/><sub>No-code generative art &amp; NFT deployment</sub>
 </td>
 <td align="center" valign="top" width="50%">
@@ -86,15 +86,17 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### Tech I use
 
-<!-- Use &amp; in query strings so GitHub's HTML parser does not truncate img URLs -->
+<!-- Icon IDs must match https://github.com/tandpfun/skill-icons#icons-list — use py (not python); android/reactnative are invalid slugs (broken glyphs) → androidstudio + kotlin. Use &amp; in query strings for GitHub HTML. -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,android,nodejs,angular&amp;perline=8" alt="Languages and runtimes (GitRoll profile)" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,androidstudio,nodejs,angular&amp;perline=8" alt="Languages and runtimes (GitRoll profile)" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,reactnative,graphql,mongodb,docker,kubernetes&amp;perline=8" alt="Frameworks and infra (GitRoll profile)" />
+    <img src="https://skillicons.dev/icons?i=vue,react,kotlin,graphql,mongodb,docker,kubernetes&amp;perline=8" alt="Frameworks and infra (GitRoll profile)" />
   </a>
 </p>
+
+<sub>Icons from <a href="https://skillicons.dev">skillicons.dev</a> · <code>py</code> = Python · <code>androidstudio</code> = Android toolchain · <code>kotlin</code> substitutes for React Native (no <code>reactnative</code> icon in the <a href="https://github.com/tandpfun/skill-icons#icons-list">official list</a>).</sub>
 
 ---
 
