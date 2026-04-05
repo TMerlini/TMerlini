@@ -1,4 +1,4 @@
-<!-- Profile repo: public TMerlini/TMerlini with README at root. Commit assets/gitroll-radar.png too — the radar is rendered in-browser on GitRoll, not exposed as a hotlink in their HTML. -->
+<!-- Radar PNG must live in TMerlini/TMerlini (same repo as this README). Push gitroll-radar.png to the default branch (main) or the image URL below will 404. -->
 
 <div align="center">
 
@@ -17,7 +17,7 @@
   </a>
 </td>
 <td align="center" valign="middle">
-  <img src="assets/gitroll-radar.png" alt="GitRoll radar: Security, Maintainability, Reliability, Uniqueness, Contribution, Influence vs platform average" height="200" />
+  <img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gitroll-radar.png" alt="GitRoll radar: Security, Maintainability, Reliability, Uniqueness, Contribution, Influence vs platform average" height="200" />
 </td>
 </tr>
 </table>
