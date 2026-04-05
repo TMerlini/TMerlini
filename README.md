@@ -26,7 +26,7 @@
 I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **independent developer** in Lisbon. I bridge deep audio domain knowledge with modern software — live sound, signal chains, and psychoacoustics on one side; APIs, web apps, and AI-assisted workflows on the other.
 
 - 🔭 **Now:** Full-time on my own tech projects · open to **freelance audio** and **audio × AI** collaborations
-- 🛠️ **Stack:** React, Firebase, Node.js, Python · daily use of **Claude**, **Whisper**, local **TTS** pipelines (e.g. Chatterbox on Apple Silicon)
+- 🛠️ **Stack:** JS/TS, Python, PHP, C/C++ · React, Vue, Angular, React Native, Android · Node.js, GraphQL, MongoDB · Docker & Kubernetes — plus **Firebase** in shipping apps and **Claude** / **Whisper** / Chatterbox for AI & audio pipelines
 - 💬 **Ask me about:** broadcast & live audio, mastering, Web3 frontends, push infra, labour-law SaaS in Portugal (`clock-in.pt`)
 - 🎧 **Also:** Co-founded **Techsoul** (electronic label, 2010–2014) · alias **GobRoss**
 
@@ -45,9 +45,11 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### Tech I use
 
+*Technologies inferred from your public repos on [GitRoll](https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2) — icon order matches their profile.*
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,firebase,docker,git,cloudflare&perline=8" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,android,nodejs,angular,vue,react,reactnative,graphql,mongodb,docker,kubernetes&perline=8" alt="Languages, frameworks & infra (GitRoll profile)" />
   </a>
 </p>
 
