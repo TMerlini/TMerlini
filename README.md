@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Hi, I'm Tiago Merlini 👋
+### Hi, I'm Tiago Merlini
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
