@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Hi, I'm Tiago Merlini
+### Hi, I'm Tiago Merlini 👋
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
@@ -55,9 +55,10 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### GitHub activity
 
+<!-- Official github-readme-stats.vercel.app is often paused (503). Mirror: readme-stats-fast.vercel.app -->
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TMerlini&show_icons=true&theme=tokyo_night&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyo_night&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=TMerlini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" alt="GitHub stats" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top languages" />
 </p>
 
 ---
