@@ -41,7 +41,6 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 - 🔭 **Now:** Full-time on my own tech projects · open to **freelance audio** and **audio × AI** collaborations
 - 🛠️ **Stack:** JS/TS, Python, PHP, C/C++ · React, Vue, Angular, React Native, Android · Node.js, GraphQL, MongoDB · Docker & Kubernetes — plus **Firebase** in shipping apps and **Claude** / **Whisper** / Chatterbox for AI & audio pipelines
 - 💬 **Ask me about:** broadcast & live audio, mastering, Web3 frontends, push infra, labour-law SaaS in Portugal (`clock-in.pt`)
-- 🎧 **Also:** Co-founded **Techsoul** (electronic label, 2010–2014) · alias **GobRoss**
 
 ---
 
