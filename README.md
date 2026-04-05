@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Olá, I'm Tiago Merlini
+### Hi, I'm Tiago Merlini 👋
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
@@ -76,6 +76,14 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <img height="160" src="https://readme-stats-fast.vercel.app/api?username=TMerlini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" alt="GitHub stats" />
   <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top languages" />
 </p>
+
+---
+
+### Pinned repos
+
+Pin **2–6** repos on your profile (**Profile → Customize your pins**) — e.g. Scaffold Push Service, GobSwap, Gen-Plasma, or libraries you want highlighted.
+
+---
 
 <div align="center">
 
