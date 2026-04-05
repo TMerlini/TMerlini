@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Hi, I'm Tiago Merlini 👋
+### Olá, I'm Tiago Merlini
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomerlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomerlini)
 [![Linktree](https://img.shields.io/badge/Linktree-linktr.ee%2Ftmerlini-39E09B?style=flat)](https://linktr.ee/tmerlini)
 [![X](https://img.shields.io/badge/X-%40MerloOfficial-000000?style=flat&logo=x&logoColor=white)](https://x.com/MerloOfficial)
-[![Email](https://img.shields.io/badge/email-merloproductions%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:merloproductions@gmail.com)
+[![Email](https://img.shields.io/badge/email-tiago%40merliniferrao.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tiago@merliniferrao.com)
 
 </div>
 
@@ -57,9 +57,9 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <br/><sub>Open-source web push (VAPID, REST API) · Node.js</sub>
 </td>
 <td align="center" valign="top" width="50%">
-  <a href="https://vortex.gobswap.com/"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/vortex.png" alt="VORTEX by GobSwap — cross-chain swaps" width="280" /></a>
+  <a href="https://vortex.gobswap.com/"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/vortex.png" alt="VORTEX by GobSwap — cross-chain swaps" width="140" /></a>
   <br/><br/>
-  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap DEX aggregator" width="280" /></a>
+  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap DEX aggregator" width="140" /></a>
   <br/><br/>
   <strong><a href="https://gobswap.com">GobSwap</a></strong> · <strong><a href="https://vortex.gobswap.com/">VORTEX</a></strong>
   <br/><sub>Same product family: multi-chain DEX aggregator + <strong>VORTEX</strong> cross-chain swaps (<a href="https://vortex.gobswap.com/">vortex.gobswap.com</a>) across <strong>17+</strong> chains, including <strong>Bitcoin Native SegWit</strong> cross-chain transfers.</sub>
