@@ -61,14 +61,6 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top languages" />
 </p>
 
----
-
-### Pinned repos
-
-Pin **2–6** repos on your profile (**Profile → Customize your pins**) — e.g. Scaffold Push Service, GobSwap, Gen-Plasma, or libraries you want highlighted.
-
----
-
 <div align="center">
 
 **Thanks for stopping by**
