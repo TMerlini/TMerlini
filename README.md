@@ -25,7 +25,7 @@
 <br/>
 
 [![GitHub TMerlini](https://img.shields.io/github/followers/TMerlini?label=Follow&style=social)](https://github.com/TMerlini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomerlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomerlini)
+[![LinkedIn](https://img.shields.io/badge/DEV.TO-tiagomerlini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.dev.to/merlini)
 [![Linktree](https://img.shields.io/badge/Linktree-linktr.ee%2Ftmerlini-39E09B?style=flat)](https://linktr.ee/tmerlini)
 [![X](https://img.shields.io/badge/X-%40MerloOfficial-000000?style=flat&logo=x&logoColor=white)](https://x.com/MerloOfficial)
 [![Email](https://img.shields.io/badge/email-tiago%40merliniferrao.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tiago@merliniferrao.com)
