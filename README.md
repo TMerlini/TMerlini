@@ -57,8 +57,6 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
 
 ### Tech I use
 
-*Technologies inferred from your public repos on [GitRoll](https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2) — icon order matches their profile.*
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,android,nodejs,angular,vue,react,reactnative,graphql,mongodb,docker,kubernetes&perline=8" alt="Languages, frameworks & infra (GitRoll profile)" />
