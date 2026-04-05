@@ -68,7 +68,7 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <a href="https://gen-plasma.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/genplasma.png" alt="Gen-Plasma" width="280" /></a>
   <br/><br/>
   <strong><a href="https://gen-plasma.com">Gen-Plasma</a></strong>
-  <br/><sub>No-code generative art &amp; NFT deployment</sub>
+  <br/><sub>Generative art &amp; No-code NFT contract deployment/Launchpad/Inscriptions</sub>
 </td>
 <td align="center" valign="top" width="50%">
   <a href="https://clock-in.pt"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/clockin.png" alt="Clock-in.pt" width="280" /></a>
