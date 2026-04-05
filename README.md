@@ -70,6 +70,7 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <a href="https://gen-plasma.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/genplasma.png" alt="Gen-Plasma" width="280" /></a>
   <br/><br/>
   <strong><a href="https://gen-plasma.com">Gen-Plasma</a></strong>
+  <br/><sub>Unique digital manifestation of plasma physics, generated through advanced mathematical algorithms</sub>
   <br/><sub>No-code generative art &amp; NFT deployment</sub>
 </td>
 <td align="center" valign="top" width="50%">
