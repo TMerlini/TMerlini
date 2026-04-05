@@ -22,8 +22,6 @@
 </tr>
 </table>
 
-<sub><i>Snapshot from <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2">GitRoll</a>: <strong>Junior-level Full-Stack Developer</strong> · overall <strong>5.66</strong> (grade <strong>B</strong>) · <strong>#93</strong> in Portugal · radar = your public repos vs their global average. Also: <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/stacks">stacks</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/languages">languages</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/repos">repos</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/roadmap">roadmap</a>.</i></sub>
-
 <br/>
 
 [![GitHub TMerlini](https://img.shields.io/github/followers/TMerlini?label=Follow&style=social)](https://github.com/TMerlini)
@@ -76,14 +74,6 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <img height="160" src="https://readme-stats-fast.vercel.app/api?username=TMerlini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" alt="GitHub stats" />
   <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TMerlini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top languages" />
 </p>
-
----
-
-### Pinned repos
-
-Pin **2–6** repos on your profile (**Profile → Customize your pins**) — e.g. Scaffold Push Service, GobSwap, Gen-Plasma, or libraries you want highlighted.
-
----
 
 <div align="center">
 
