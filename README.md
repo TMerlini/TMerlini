@@ -1,4 +1,4 @@
-<!-- Profile repo: create public repo named TMerlini/TMerlini and add this README at root. -->
+<!-- Profile repo: public TMerlini/TMerlini with README at root. Commit assets/gitroll-radar.png too — the radar is rendered in-browser on GitRoll, not exposed as a hotlink in their HTML. -->
 
 <div align="center">
 
@@ -6,9 +6,23 @@
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
-<a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uvBYfjtNptIadFB0A7WbF3dwnj2Y2?theme=tokyoNight" alt="GitRoll profile badge" />
-</a>
+#### GitRoll
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uvBYfjtNptIadFB0A7WbF3dwnj2Y2?theme=tokyoNight" alt="GitRoll profile badge" height="200" />
+  </a>
+</td>
+<td align="center" valign="middle">
+  <img src="assets/gitroll-radar.png" alt="GitRoll radar: Security, Maintainability, Reliability, Uniqueness, Contribution, Influence vs platform average" height="200" />
+</td>
+</tr>
+</table>
+
+<sub><i>Snapshot from <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2">GitRoll</a>: <strong>Junior-level Full-Stack Developer</strong> · overall <strong>5.66</strong> (grade <strong>B</strong>) · <strong>#93</strong> in Portugal · radar = your public repos vs their global average. Also: <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/stacks">stacks</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/languages">languages</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/repos">repos</a>, <a href="https://gitroll.io/profile/uvBYfjtNptIadFB0A7WbF3dwnj2Y2/roadmap">roadmap</a>.</i></sub>
 
 <br/>
 
