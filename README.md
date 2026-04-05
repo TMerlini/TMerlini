@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Olá, I'm Tiago Merlini
+### Hi, I'm Tiago Merlini 👋
 
 **Audio engineer × indie developer** — 15+ years in sound · building AI-assisted products at the edge of audio & code
 
@@ -57,10 +57,12 @@ I'm an **audio engineer** (broadcast, FOH, mastering, sound design) and **indepe
   <br/><sub>Open-source web push (VAPID, REST API) · Node.js</sub>
 </td>
 <td align="center" valign="top" width="50%">
-  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap/Vortex Cross-chain 15+ Chains including Bitcoin" width="280" /></a>
+  <a href="https://vortex.gobswap.com/"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/vortex.png" alt="VORTEX by GobSwap — cross-chain swaps" width="280" /></a>
   <br/><br/>
-  <strong><a href="https://gobswap.com">GobSwap</a></strong>
-  <br/><sub>Multi-chain DEX aggregator (14+ chains)</sub>
+  <a href="https://gobswap.com"><img src="https://raw.githubusercontent.com/TMerlini/TMerlini/main/gobswapvortex.jpg" alt="GobSwap DEX aggregator" width="280" /></a>
+  <br/><br/>
+  <strong><a href="https://gobswap.com">GobSwap</a></strong> · <strong><a href="https://vortex.gobswap.com/">VORTEX</a></strong>
+  <br/><sub>Same product family: multi-chain DEX aggregator + <strong>VORTEX</strong> cross-chain swaps (<a href="https://vortex.gobswap.com/">vortex.gobswap.com</a>) across <strong>17+</strong> chains, including <strong>Bitcoin Native SegWit</strong> cross-chain transfers.</sub>
 </td>
 </tr>
 <tr>
